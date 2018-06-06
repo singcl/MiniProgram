@@ -40,8 +40,8 @@ Page({
   },
   onShareAppMessage: function () {
     return {
-      title: '记事本见过吗',
-      desc: '第一个让我忘不掉的记事本',
+      title: '炒鸡简单',
+      desc: '一个炒鸡简单的记事本',
       path: '/pages/index/index'
     }
   }
